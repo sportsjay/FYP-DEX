@@ -1,0 +1,9 @@
+[submodule "dex-controller"]
+	path = dex-controller
+	url = https://github.com/sportsjay/dex-controller.git
+[submodule "dex-mobile-app"]
+	path = dex-mobile-app
+	url = https://github.com/sportsjay/dex-mobile-app.git
+[submodule "dex-service-js"]
+	path = dex-service-js
+	url = https://github.com/sportsjay/dex-service-js.git
